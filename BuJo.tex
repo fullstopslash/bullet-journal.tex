@@ -1,51 +1,75 @@
-\documentclass[a5paper,11pt]{article}
+\documentclass[a5paper]{article}
 \usepackage{latexsym}
 \usepackage[english]{babel} % To obtain English text with the blindtext package
 \usepackage[normalem]{ulem} %Strikethrough text
-\usepackage{blindtext}
-\usepackage{tabularx}
 \title{Bullet Journal}
 \begin{document}
 \maketitle
 \tableofcontents
 \newpage
-%test
-\section*{Future log}
-\addcontentsline{toc}{section}{Future log}
-
-\begin{tabularx}{\textwidth}{X|l}
-	\hline
-	\textbf{January} \\
-	\hline
-	\blindtext \\
-	\hline
-	\textbf{February} \\
-	\hline
-	\blindtext \\
-	\hline
-	\textbf{March} \\
-	\hline
-	\blindtext \\
-\end{tabularx}
+\section{Future log}
+\begin{table}[htp]
+\begin{tabular}
+\hline
+Jan
+\begin{itemize}
+\item lorem ipsum 
+\item lorem ipsum 
+\item Proper Node
+\item Proper Node
+\end{itemize}
+\hline
+Feb
+\begin{itemize}
+\item lorem ipsum 
+\item lorem ipsum 
+\item Proper Node
+\item Proper Node
+\end{itemize}
+\hline
+Mar
+\begin{itemize}
+\item lorem ipsum 
+\item lorem ipsum 
+\item Proper Node
+\item Proper Node
+\end{itemize}
+\hline
+\end{tabular}
+\end{table}
 \newpage
-\begin{tabularx}{\textwidth}{X|l}
-	\hline
-	\textbf{April} \\
-	\hline
-	\blindtext \\
-	\hline
-	\textbf{May} \\
-	\hline
-	\blindtext \\
-	\hline
-	\textbf{July} \\
-	\hline
-	\blindtext \\
-\end{tabularx}
-
-\section*{Month view}
-\addcontentsline{toc}{section}{Month view}
-\begin{enumerate}
+\begin{table}[htp]
+\begin{tabular}
+\hline
+Jan
+\begin{itemize}
+\item lorem ipsum 
+\item lorem ipsum 
+\item Proper Node
+\item Proper Node
+\end{itemize}
+\hline
+Feb
+\begin{itemize}
+\item lorem ipsum 
+\item lorem ipsum 
+\item Proper Node
+\item Proper Node
+\end{itemize}
+\hline
+Mar
+\begin{itemize}
+\item lorem ipsum 
+\item lorem ipsum 
+\item Proper Node
+\item Proper Node
+\end{itemize}
+\hline
+\end{tabular}
+\end{table}
+\newpage
+\section{Month view}
+\begin{itemize}
 	\item Items are numbered automatically.
 	\item The numbers start at 1 with each use of the \texttt{enumerate} environment.
 	\item Another entry in the list
@@ -77,10 +101,9 @@
 	\item Another entry in the list
 	\item Another entry in the list
 	\item Another entry in the list
-\end{enumerate}	
+\end{itemize}	
 \newpage
-\section*{Task lists}
-\addcontentsline{toc}{section}{Task lists}
+\section{Task lists}
 Legend:
 \begin{itemize}
 	\item Task incomplete
@@ -93,8 +116,7 @@ Legend:
 	\item[!] Inspiration
 \end{itemize}
 \newpage
-\section*{Daily view}
-\addcontentsline{toc}{section}{Daily view}
+\section{Daily view}
 09.12.2021
 \begin{itemize}
 	\item idea to create bullet journal.tex
@@ -107,9 +129,12 @@ Legend:
 \begin{itemize}
 	\item published on GitHub!
 \end{itemize}
+26.01.2022
+\begin{itemize}
+	\item PDF conversion
+\end{itemize}
 \newpage
-\section*{Collection}
-\addcontentsline{toc}{section}{Collection}
+\section{Collection}
 \textbf{Rapid Logging} - Be it for taking notes or journaling, studies keep identifying benefits of writing by hand. That said, it takes time and can be unorganized. How can we enjoy the benefits while avoiding the shortcomings of hand writing? Rapid Logging. Rapid Logging is the language in which the Bullet Journal is written. In short, it's a way of capturing information as bulleted lists. Let's start with the basics.
 
 \textbf{Bullets} - If Rapid Logging is language the BuJo is written in, Bullets are the syntax. Bullets are short-form sentences paired with symbols that visually categorize your entries into: Tasks, Events, or Notes. Let's break it down...
@@ -190,4 +215,3 @@ Change the labels using \verb|\item[label text]| in an \texttt{enumerate} enviro
 		\item[!] Song about vending machine!
 	\end{itemize}
 \end{document}
-

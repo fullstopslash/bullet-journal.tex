@@ -2,6 +2,8 @@
 \usepackage{latexsym}
 \usepackage[english]{babel} % To obtain English text with the blindtext package
 \usepackage[normalem]{ulem} %Strikethrough text
+\usepackage{multirow} %merge cells
+%\usepackage{csvsimple} %finance
 \title{Bullet Journal - Addons}
 \begin{document}
 \maketitle
@@ -10,55 +12,41 @@
 \section{Task lists}
 Legend:
 \begin{itemize}
-	\item [+] Prompt \href{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{source}
+	\item [+] Prompt \hrefs{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{source}
 \end{itemize}
-\begin{itemize}
-	\item calisthenics
-\end{itemize}
+\newpage
 \section{Habit tracker}
 \begin{table}[htp]
-\begin{tabular}{lllllll}
-\cline{1-1}
-S                      & M & T & W & T & F & S \\ \cline{1-1}
-                       &   &   &   &   &   &   \\
-                       &   &   &   &   &   &   \\
-                       &   &   &   &   &   &   \\
-                       &   &   &   &   &   &   \\ \cline{1-1}
-\multicolumn{1}{|l|}{} &   &   &   &   &   &   \\ \cline{1-1}
-                       &   &   &   &   &   &   \\ \cline{1-1}
+\begin{tabular}{|l|l|l|l|l|l|l|l}
+\cline{1-7}
+S & M & T & W & T & F & S & \multirow{7}{*}{} \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
 \end{tabular}
 \end{table}
 
 \begin{table}[htp]
-\begin{tabular}{lllllll}
-\cline{1-1}
-S                       & M & T & W & T & F & S \\ \cline{1-1}
-x                       & x & x & x & x & x & x \\
-x                       &   &   &   &   &   &   \\
-x                       &   &   &   &   &   &   \\
-x                       &   &   &   &   &   &   \\ \cline{1-1}
-\multicolumn{1}{|l|}{x} &   &   &   &   &   &   \\ \cline{1-1}
-x                       &   &   &   &   &   &   \\ \cline{1-1}
+\begin{tabular}{|l|l|l|l|l|l|l|l}
+\cline{1-7}
+S & M & T & W & T & F & S & \multirow{7}{*}{\begin{tabular}[c]{@{}l@{}}1\\ 2\\ 3\\ 4\\ 5\\ 6\\ 7\\ \end{tabular}} \\ \cline{1-7}
+x & x & x & x & x & x & x &  \\ \cline{1-7}
+x &   &   &   &   &   &   &  \\ \cline{1-7}
+x &   &   &   &   &   &   &  \\ \cline{1-7}
+x &   &   &   &   &   &   &  \\ \cline{1-7}
+x &   &   &   &   &   &   &  \\ \cline{1-7}
+x &   &   &   &   &   &   &  \\ \cline{1-7}
 \end{tabular}
-\begin{table}[htp]
+\end{table}
+
 \section{Financial tracker}
-%\input{finance.csv}
+\verbatiminput{finance.csv}
 \section{Mood tracker}
-
-\begin{table}[]
-\begin{tabular}{lllllll}
-\cline{1-1}
-S                       & M & T & W & T & F & S \\ \cline{1-1}
-x                       & x & x & x & x & x & x \\
-x                       &   &   &   &   &   &   \\
-x                       &   &   &   &   &   &   \\
-x                       &   &   &   &   &   &   \\ \cline{1-1}
-\multicolumn{1}{|l|}{x} &   &   &   &   &   &   \\ \cline{1-1}
-x                       &   &   &   &   &   &   \\ \cline{1-1}
-\end{tabular}
-\end{table}
+List emotions:
 \begin{itemize}
-	\item Items are numbered automatically.
 	\item Abhiman
 	\item Acedia
 	\item Amae
@@ -209,5 +197,16 @@ x                       &   &   &   &   &   &   \\ \cline{1-1}
 	\item Worry
 	\item Żal
 \end{itemize}
-
+\begin{table}[htp]
+\begin{tabular}{|l|l|l|l|l|l|l|l}
+\cline{1-7}
+S & M & T & W & T & F & S & \multirow{7}{*}{} \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+  &   &   &   &   &   &   &                   \\ \cline{1-7}
+\end{tabular}
+\end{table}
 \end{document}

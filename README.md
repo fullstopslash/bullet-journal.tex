@@ -8,12 +8,18 @@
 	* [ ] And whatever you want! Anyone can edit, send issue or pull request
 	
 # Prerequisites
+##Original
 LaTeX installed, and a LaTeX Editor, e.g. Vim, emacs
 
 LaTeX packages used:
 * ulem for Strikethrough text
 
-OPTIONAL: i use latexmk to convert to PDF:
+##BuJo-Addons
+LateX packages used:
+* Multirow - Merge Cells
+* csvsimple - Finace
+
+i convert to PDF:
 
 latexmk -pdf -f -g -bibtex -deps -synctex=1 -interaction=nonstopmode -output-directory=BuJo.pdf 'BuJo.tex'
 

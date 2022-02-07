@@ -1,10 +1,27 @@
 # Bullet journal
 * [BuJo](BuJo.tex) - original [Bullet Journal](https://www.youtube.com/watch?v=fm15cmYU0IM)
 * [Bujo-Addons](Bujo-Addons.tex) - User Created Plugins
-	* [x] [Habit tracker](https://bulletjournal.com/blogs/bulletjournalist/intentional-habit-tracking)
-	* [x] [Financial tracker](https://bulletjournal.com/blogs/bulletjournalist/finance-log-round-up)
-	* [x] [Mental Health](https://bulletjournal.com/blogs/bulletjournalist/5-ways-to-bullet-journal-to-benefit-your-mental-health)
 * [Bujo-Addons-Legacy](Bujo-Addons-Legacy.tex) - As above but without extra depencies
+	* Trackers:
+		* [x] [Habit tracker](https://bulletjournal.com/blogs/bulletjournalist/intentional-habit-tracking)
+		* [x] [Financial tracker](https://bulletjournal.com/blogs/bulletjournalist/finance-log-round-up)
+		* [x] [Mood tracker](https://bulletjournal.com/blogs/bulletjournalist/5-ways-to-bullet-journal-to-benefit-your-mental-health)
+		* [ ] Goal tracker
+		* [ ] Meal traker
+		* [ ] TV show tracker
+		* [ ] Chore chart
+	* [ ] Title page
+	* [ ] Books to read
+	* [ ] Wish board
+	* [ ] Quotes
+	* [ ] Birthday list
+	* [ ] Month Review
+	* [ ] Daily/Weekly spread
+	* [ ] Specialty planning
+	* Other:
+		* [ ] What have you learned?
+		* [ ] Things to buy
+		* [ ] Gratitute
 	
 # Prerequisites
 ##Original

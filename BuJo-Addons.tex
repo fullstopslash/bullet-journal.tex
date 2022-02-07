@@ -1,9 +1,8 @@
-\documentclass[a5paper]{article}
+\documentclass[a4paper]{article}
 \usepackage{latexsym}
 \usepackage[english]{babel} % To obtain English text with the blindtext package
 \usepackage[normalem]{ulem} %Strikethrough text
-\usepackage{multirow} %merge cells
-\usepackage{csvsimple} %finance
+\usepackage{csvsimple} %tables
 \title{Bullet Journal - Addons}
 \begin{document}
 \maketitle
@@ -12,201 +11,267 @@
 \section{Task lists}
 Legend:
 \begin{itemize}
-	\item [+] Prompt \hrefs{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{source}
+	 [+] Prompt \hrefs{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{source}
 \end{itemize}
 \newpage
-\section{Habit tracker}
-\begin{table}[htp]
-\begin{tabular}{|l|l|l|l|l|l|l|l}
-\cline{1-7}
-S & M & T & W & T & F & S & \multirow{7}{*}{} \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-\end{tabular}
-\end{table}
-
-\begin{table}[htp]
-\begin{tabular}{|l|l|l|l|l|l|l|l}
-\cline{1-7}
-S & M & T & W & T & F & S & \multirow{7}{*}{\begin{tabular}[c]{@{}l@{}}1\\ 2\\ 3\\ 4\\ 5\\ 6\\ 7\\ \end{tabular}} \\ \cline{1-7}
-x & x & x & x & x & x & x &  \\ \cline{1-7}
-x &   &   &   &   &   &   &  \\ \cline{1-7}
-x &   &   &   &   &   &   &  \\ \cline{1-7}
-x &   &   &   &   &   &   &  \\ \cline{1-7}
-x &   &   &   &   &   &   &  \\ \cline{1-7}
-x &   &   &   &   &   &   &  \\ \cline{1-7}
-\end{tabular}
-\end{table}
-
-\section{Financial tracker}
-\input{finance.csv}
-\section{Mood tracker}
 List emotions:
-\begin{itemize}
-	\item Abhiman
-	\item Acedia
-	\item Amae
-	\item Ambiguphobia
-	\item Anger
-	\item Anticipation
-	\item Anxiety
-	\item Apathy
-	\item L’appel du vide
-	\item Awumbuk
-	\item Bafflement
-	\item Basorexia
-	\item Befuddlement
-	\item Bewilderment
-	\item Boredom
-	\item Brabant
-	\item Broodiness
-	\item Calm
-	\item Carefree
-	\item Cheerfulness
-	\item Cheesed (off)
-	\item Claustrophobia
-	\item Collywobbles, the
-	\item Comfort
-	\item Compassion
-	\item Compersion
-	\item Confidence
-	\item Contempt
-	\item Contentment
-	\item Courage
-	\item Curiosity
-	\item Cyberchondria
-	\item Delight
-	\item Dépaysement
-	\item Desire
-	\item Despair
-	\item Disappear, the desire to
-	\item Disappointment
-	\item Disgruntlement
-	\item Disgust
-	\item Dismay
-	\item Dolce far niente
-	\item Dread
-	\item Ecstasy
-	\item Embarrassment
-	\item Empathy
-	\item Envy
-	\item Euphoria
-	\item Exasperation
-	\item Excitement
-	\item Fear
-	\item Feeling good (about yourself)
-	\item Formal feeling, a
-	\item Fraud, feeling like a
-	\item Frustration
-	\item Gezelligheid
-	\item Gladsomeness
-	\item Glee
-	\item Gratitude
-	\item Greng jai
-	\item Grief
-	\item Guilt
-	\item Han
-	\item Happiness
-	\item Hatred
-	\item Heebie-Jeebies, the
-	\item Hiraeth
-	\item Hoard, the urge to
-	\item Homefulness
-	\item Homesickness
-	\item Hopefulness
-	\item Huff, in a
-	\item Humble, feeling
-	\item Humiliation
-	\item Hunger
-	\item Hwyl
-	\item Ijirashi
-	\item Ilinx
-	\item Impatience
-	\item Indignation
-	\item Inhabitiveness
-	\item Insulted, feeling
-	\item Irritation
-	\item Jealousy
-	\item Joy
-	\item Kaukokaipuu
-	\item Liget
-	\item Litost
-	\item Loneliness
-	\item Love
-	\item Malu
-	\item Man
-	\item Matutolypea
-	\item Mehameha
-	\item Melancholy
-	\item Miffed, a bit
-	\item Mono no aware
-	\item Morbid curiosity
-	\item Nakhes
-	\item Nginyiwarrarringu
-	\item Nostalgia
-	\item Oime
-	\item Overwhelmed, feeling
-	\item Panic
-	\item Paranoia
-	\item Perversity
-	\item Peur des espaces
-	\item Philoprogenitiveness
-	\item Pique, a fit of
-	\item Pity
-	\item Postal, going
-	\item Pride
-	\item Pronoia
-	\item Rage
-	\item Regret
-	\item Relief
-	\item Reluctance
-	\item Remorse
-	\item Reproachfulness
-	\item Resentment
-	\item Ringxiety
-	\item Rivalry
-	\item Road rage
-	\item Ruinenlust
-	\item Sadness
-	\item Satisfaction
-	\item Saudade
-	\item Schadenfreude
-  \item Self-pity
-	\item Shame
-	\item Shock
-	\item Smugness
-	\item Song
-	\item Surprise
-	\item Suspicion
-	\item Technostress
-	\item Terror
-	\item Torschlusspanik
-	\item Toska
-	\item Triumph
-	\item Vengefulness
-	\item Vergüenza ajena
-	\item Viraha
-	\item Vulnerability
-	\item Wanderlust
- 	\item Warm glow
-	\item Wonder
-	\item Worry
-	\item Żal
-\end{itemize}
-\begin{table}[htp]
-\begin{tabular}{|l|l|l|l|l|l|l|l}
-\cline{1-7}
-S & M & T & W & T & F & S & \multirow{7}{*}{} \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-  &   &   &   &   &   &   &                   \\ \cline{1-7}
-\end{tabular}
-\end{table}
+	 Abhiman
+	 Acedia
+	 Amae
+	 Ambiguphobia
+	 Anger
+	 Anticipation
+	 Anxiety
+	 Apathy
+	 L’appel du vide
+	 Awumbuk
+	 Bafflement
+	 Basorexia
+	 Befuddlement
+	 Bewilderment
+	 Boredom
+	 Brabant
+	 Broodiness
+	 Calm
+	 Carefree
+	 Cheerfulness
+	 Cheesed (off)
+	 Claustrophobia
+	 Collywobbles, the
+	 Comfort
+	 Compassion
+	 Compersion
+	 Confidence
+	 Contempt
+	 Contentment
+	 Courage
+	 Curiosity
+	 Cyberchondria
+	 Delight
+	 Dépaysement
+	 Desire
+	 Despair
+	 Disappear, the desire to
+	 Disappointment
+	 Disgruntlement
+	 Disgust
+	 Dismay
+	 Dolce far niente
+	 Dread
+	 Ecstasy
+	 Embarrassment
+	 Empathy
+	 Envy
+	 Euphoria
+	 Exasperation
+	 Excitement
+	 Fear
+	 Feeling good (about yourself)
+	 Formal feeling, a
+	 Fraud, feeling like a
+	 Frustration
+	 Gezelligheid
+	 Gladsomeness
+	 Glee
+	 Gratitude
+	 Greng jai
+	 Grief
+	 Guilt
+	 Han
+	 Happiness
+	 Hatred
+	 Heebie-Jeebies, the
+	 Hiraeth
+	 Hoard, the urge to
+	 Homefulness
+	 Homesickness
+	 Hopefulness
+	 Huff, in a
+	 Humble, feeling
+	 Humiliation
+	 Hunger
+	 Hwyl
+	 Ijirashi
+	 Ilinx
+	 Impatience
+	 Indignation
+	 Inhabitiveness
+	 Insulted, feeling
+	 Irritation
+	 Jealousy
+	 Joy
+	 Kaukokaipuu
+	 Liget
+	 Litost
+	 Loneliness
+	 Love
+	 Malu
+	 Man
+	 Matutolypea
+	 Mehameha
+	 Melancholy
+	 Miffed, a bit
+	 Mono no aware
+	 Morbid curiosity
+	 Nakhes
+	 Nginyiwarrarringu
+	 Nostalgia
+	 Oime
+	 Overwhelmed, feeling
+	 Panic
+	 Paranoia
+	 Perversity
+	 Peur des espaces
+	 Philoprogenitiveness
+	 Pique, a fit of
+	 Pity
+	 Postal, going
+	 Pride
+	 Pronoia
+	 Rage
+	 Regret
+	 Relief
+	 Reluctance
+	 Remorse
+	 Reproachfulness
+	 Resentment
+	 Ringxiety
+	 Rivalry
+	 Road rage
+	 Ruinenlust
+	 Sadness
+	 Satisfaction
+	 Saudade
+	 Schadenfreude
+   Self-pity
+	 Shame
+	 Shock
+	 Smugness
+	 Song
+	 Surprise
+	 Suspicion
+	 Technostress
+	 Terror
+	 Torschlusspanik
+	 Toska
+	 Triumph
+	 Vengefulness
+	 Vergüenza ajena
+	 Viraha
+	 Vulnerability
+	 Wanderlust
+ 	 Warm glow
+	 Wonder
+	 Worry
+	 Żal
+\newpage
+\section{Mood tracker}
+S,M,X,T,W,F,S\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+\newpage
+\section{Habit tracker}
+S,M,X,T,W,F,S\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+\newpage
+\section{Financial tracker}
+\subsection{Subscriptions}
+S,M,X,T,W,F,S\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+X,,,,,,\\
+\newpage
+\subsection{Income}
+Date,Category,Amount,Note\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+\subsection{expenses}
+Date,Category,Amount,Note\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+X,,,\\
+
 \end{document}

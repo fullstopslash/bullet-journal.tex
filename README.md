@@ -7,7 +7,7 @@
 		* [x] [Financial tracker](https://bulletjournal.com/blogs/bulletjournalist/finance-log-round-up)
 		* [x] [Mood tracker](https://bulletjournal.com/blogs/bulletjournalist/5-ways-to-bullet-journal-to-benefit-your-mental-health)
 		* [ ] Goal tracker
-		* [ ] Meal traker
+		* [X] Meal traker
 		* [ ] TV show tracker
 		* [ ] Chore chart
 	* [ ] Title page
@@ -25,19 +25,21 @@
 	
 # Prerequisites
 ##Original
+
 LaTeX installed, and a LaTeX Editor, e.g. Vim, emacs
 
 LaTeX packages used:
 * ulem for Strikethrough text
 
 Same for BuJo-Addond-Legacy
+
 ##BuJo-Addons
+
 LateX packages used:
 * Multirow - Merge Cells
 * csvsimple - Finance
 
-#PDF:
-
+#PDF
 latexmk -pdf -f -g -bibtex -deps -synctex=1 -interaction=nonstopmode -output-directory=BuJo.pdf 'BuJo.tex'
 
 ## License

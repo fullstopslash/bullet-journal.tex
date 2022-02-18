@@ -2,16 +2,35 @@
 \usepackage{latexsym}
 \usepackage[english]{babel} % To obtain English text with the blindtext package
 \usepackage[normalem]{ulem} %Strikethrough text
+%---
 \usepackage{csvsimple} %tables
+\usepackage{tikz} % dot grid
+%---
 \title{Bullet Journal - Addons}
 \begin{document}
 \maketitle
 \tableofcontents
 \newpage
+\section{Daily view}
+18.02.2022
+\begin{itemize}
+	\item \textbf{What you have learned?}
+    \begin{itemize}
+        \item Install plugins to LaTeX
+    \end{itemize}
+\end{itemize}
+\newpage
 \section{Task lists}
 Legend:
 \begin{itemize}
 	 [+] Prompt \hrefs{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{source}
+\end{itemize}
+Other:
+\begin{itemize}
+	\item \textbf{Books to read}
+    \begin{itemize}
+        \item TRIZ
+    \end{itemize}
 \end{itemize}
 \newpage
 List emotions:
@@ -166,112 +185,18 @@ List emotions:
 	 Żal
 \newpage
 \section{Mood tracker}
-S,M,X,T,W,F,S\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
+\csvautotabular{mood-habit.csv}
 \newpage
 \section{Habit tracker}
-S,M,X,T,W,F,S\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
+\csvautotabular{mood-habit.csv}
 \newpage
 \section{Financial tracker}
 \subsection{Subscriptions}
-S,M,X,T,W,F,S\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
-X,,,,,,\\
+\csvautotabular{financial.csv}
 \subsection{Income}
-Date,Category,Amount,Note\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
+\csvautotabular{financial.csv}
 \subsection{expenses}
-Date,Category,Amount,Note\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
-X,,,\\
+\csvautotabular{financial.csv}
 \newpage
 \section{Meal tracker}
 \subsection{Meals}
@@ -326,11 +251,35 @@ X,,,\\
      \item S
      \end{itemize}
 \end{itemize}
+\newpage
 \subsection{Shopping list}
 		\begin{itemize}
      \item Milk
      \item Oat
      \item Honey
      \end{itemize}
-
+\section{Chore chart}
+\begin{itemize}
+    \item Daily
+    \begin{itemize}
+        \item first item on the list
+    \end{itemize}
+    \item Weekly
+    \begin{itemize}
+        \item second item on the list
+    \end{itemize}
+    \item Monthly
+    \begin{itemize}
+        \item second item on the list
+    \end{itemize}
+    \item Quarterly
+    \begin{itemize}
+        \item second item on the list
+    \end{itemize}
+\end{itemize}
+\section{birthday list}
+\begin{itemize}
+	\item Person 1 - 17.02.2022 
+\end{itemize}
+\newpage
 \end{document}

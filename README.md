@@ -4,22 +4,23 @@
 	* Trackers:
 		* [X] Books to read
 		* [X] What have you learned?
-		* [x] [Mood tracker](https://bulletjournal.com/blogs/bulletjournalist/5-ways-to-bullet-journal-to-benefit-your-mental-health)
-		* [x] [Habit tracker](https://bulletjournal.com/blogs/bulletjournalist/intentional-habit-tracking)
-		* [x] [Financial tracker](https://bulletjournal.com/blogs/bulletjournalist/finance-log-round-up)
+		* [X] [Mood tracker](https://bulletjournal.com/blogs/bulletjournalist/5-ways-to-bullet-journal-to-benefit-your-mental-health)
+		* [X] [Habit tracker](https://bulletjournal.com/blogs/bulletjournalist/intentional-habit-tracking)
+		* [X] [Financial tracker](https://bulletjournal.com/blogs/bulletjournalist/finance-log-round-up)
 		* [X] Meal traker
 		* [X] Chore chart
+		* [X] TV show tracker
 		* [ ] Goal tracker
-		* [ ] TV show tracker
-	* [ ] Title page
-	* [ ] Wish board
-	* [ ] Quotes
+	* Lists
+		* [X] Birthday list
+		* [X] Quotes
+		* [ ] Wish board
+		* [ ] Things to buy
+	* [X] Title page
 	* [ ] Month Review
 	* [ ] Daily/Weekly spread
 	* [ ] Specialty planning
 	* Other:
-		* [X] Birthday list
-		* [ ] Things to buy
 		* [ ] Gratitute
 * [Bujo-Addons-Legacy](Bujo-Addons-Legacy.tex) - As above but without extra depencies
 	

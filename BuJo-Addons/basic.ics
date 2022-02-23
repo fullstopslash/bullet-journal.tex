@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:c8cddlg4sv2fa83mt7719ekl80@google.com
+SUMMARY:Rocznica zniesienia niewolnictwa na Mauritiusie
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220201
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+CLASS:PUBLIC
+DESCRIPTION:Nie szkodzi\, że nie wiesz gdzie to jest\, świętuj!\n• 19
+ 25 – początek radiofonii w Polsce. Audycje nie były niestety katolicki
+ e.\n• 1978 – Roman Polański ucieka z USA. Bo skąd miał niby wiedzie
+ ć\, że miała 13 lat?\n• 2005 – opublikowano Listę Wildsteina. Dzi
+ ęki niej wiadomo kto stał tam gdzie\nwtedy stało ZOMO.\n• 2012 – zm
+ arła Wisława Szymborska\, poetka która\, według miejskiej legendy\, ni
+ e\nzdałaby matury z polskiego ze swojej własnej twórczości.
+SEQUENCE:1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:e2ejvseev60ajomgo3246hdam8@google.com
+SUMMARY:Dzień Świstaka!
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220202
+DTSTART;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220203
+CLASS:PUBLIC
+DESCRIPTION:…jest też „Dzień Handlowca”\, „Dzień Pozytywnego My
+ ślenia” oraz „Światowy Dzień\nMokradeł”\, ale to bagno jakieś. 
+ Także Święto Matki Boskiej Gromnicznej\, czyli\nczas na wypieprzenie ch
+ oinek.\n• 1653 – Nowy Jork otrzymał prawa miejskie. Od czegoś w koń
+ cu trzeba zacząć...\n• 1935 – uruchomiono pierwszy w historii wykryw
+ acz kłamstw. Młodzi małżonkowie\npopadli w depresję.\n• 1951 – si
+ edmiu murzynów doigrało się za mały gangbang. No pain\, no gain.\n• 
+ 2007 – oscypek stał się znakiem handlowym\, a Pałac Kultury i Nauki z
+ abytkiem.\nDoceniła nas Unia\, nie ma co.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:2bed5nrbquu9ccgnim62vma2r4@google.com
+SUMMARY:Dzień Bohaterów Mozambiku!
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220203
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+CLASS:PUBLIC
+DESCRIPTION:Małe\, parszywe komuszki świętują też w Wietnamie\n• 10
+ 18 – Chrobry + Oda. Can You Feel The Love Tonight?\n• 1735 – rodzi s
+ ię Ignacy Krasicki. Tak\, to ten od purpurowych sukienek oraz myszy.\n•
+  1919 – Polacy stawiają na swoim Śląsku Cieszyńskim. Czesi nie.\n•
+  1935 – Pewien astronom odkrył asteroidę Wawel\, a na niej chrupiące 
+ orzeszki\noblane pyszną polewą z mlecznej czekolady.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:ouvp4jlt74aeg06pbmo7div524@google.com
+SUMMARY:Światowy Dzień Walki z Rakiem
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220204
+DTSTART;VALUE=DATE:20220204
+DTEND;VALUE=DATE:20220205
+CLASS:PUBLIC
+DESCRIPTION:A także Święto Niepodległości Sri Lanki. Wiedziałeś\, 
+ że jest ona niepodległa?\n• 900 – Ludwik IV Dziecię został królem
+  wschodnich Franków.\n• 1348 – zwycięstwo Dworu Północnego nad woj
+ skami Dworu Południowego.\n• 1746 – w niezamieszkałej już dziś Mer
+ eczowszczyznie urodziło się dziecko.\n• 1970 – założono miasto Pry
+ peć\, ulubione miejsce spotkań wielu Stalkerów.\n
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:nqraclv1svjbmmk6qo0co0op1o@google.com
+SUMMARY:Dzień Chama Cha Mapinduzi
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220205
+DTSTART;VALUE=DATE:20220205
+DTEND;VALUE=DATE:20220206
+CLASS:PUBLIC
+DESCRIPTION:Nazwa tejże partii taka\, że wszystko inne blednie. Oraz Św
+ iatowy Dzień Nutelli.\n• ok. 10 p.n.e. – w nieznanych okolicznościac
+ h ginie karawana osłów i wielbłądów\nna południe od Jerycha.\n• 19
+ 85 – Hiszpania i Gibraltar znowu się kochają.\n• 1985 – karierę b
+ illboardu rozpoczyna Krysia. I nie tylko billboardu.\n• 2010 – Pluton 
+ stał się nagle bardziej czerwony. To na pewno wynik zawiązanej\nrok wcz
+ eśniej Nowej Partii Antykapitalistycznej.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:ina1rru4rja1bjgq58b5tcbljo@google.com
+SUMMARY:Dzień Boba Marleya\, narodowe święto Jamajki
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220206
+DTSTART;VALUE=DATE:20220206
+DTEND;VALUE=DATE:20220207
+CLASS:PUBLIC
+DESCRIPTION:No woman\, no cry!\n• 1637 – krach na rynku tulipanów w H
+ olandii. Straszne. Osłupiające. Szok.\nMiliony ludzi tracą dobytek swoj
+ ego życia.\n• 1945 – Bob Marley wypala pierwszego jointa w swoim życ
+ iu\, zamiast pierwszego\nkrzyku śpiewa „Get up\, stand up for your righ
+ ts”.\n• 1958 – drużyna Manchesteru United zostaje pomniejszona o o
+ śmiu.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:8h15di3ghg1hv41qlmeit55r2g@google.com
+SUMMARY:Dzień Najwyższej Izby Kontroli
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220207
+DTSTART;VALUE=DATE:20220207
+DTEND;VALUE=DATE:20220208
+CLASS:PUBLIC
+DESCRIPTION:Oczywiście tej z dwudziestolecia międzywojennego.\n• 1992 
+ – kilku pajaców nadało Unii Europejskiej swoją nazwę\, nie wiedząc\
+ , jaki\nwłaśnie wprowadzają burdel.\n• 2010 – Wiktor Janukowycz wyg
+ rał demokratyczne wybory na Ukrainie. Brawo!\n• 2014 – rozpoczął si
+ ę kabaret… spektakl nazwany Igrzyskami Olimpijskimi w ZSRR…\nRosji.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:moqrmfusg6itv2fa1u9qbe8kqo@google.com
+SUMMARY:Święto Służby Więziennej
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220208
+DTSTART;VALUE=DATE:20220208
+DTEND;VALUE=DATE:20220209
+CLASS:PUBLIC
+DESCRIPTION:Uczcij dzisiejszy dzień\, upuszczając mydło w łazience. Po
+ za tym Święto Rewolucji\nw Iraku! Maczeta w rękę i do boju.\n• 469 p
+ .n.e. – pewniem strażnik więzienny w Rzymie stwierdził\, że nie ma z
+ amiaru\nsię przemęczać i połamał nogi wszystkim więźniom.\n• 1587
+  – ścięto za zdradę Marię I Stuart. Dzięki temu pilnujący jej stra
+ żnicy\ndostali dzień urlopu.\n• 1815 – zakazano handlu niewolnikami.
+  Od tego momentu każdy plantator musiał\nsam sobie wyhodować murzyna.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:87tabpdd1tja2ppbf9c3mc2hd0@google.com
+SUMMARY:Dzień Pantoflarza
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220209
+DTSTART;VALUE=DATE:20220209
+DTEND;VALUE=DATE:20220210
+CLASS:PUBLIC
+DESCRIPTION:Bo Zawsze lepiej jest być pod pantoflem niż damskimi kołami
+ . Międzynarodowy\nDzień Pizzy.\n• 267 p.n.e – Pierwsza naukowo opisa
+ na kłótnia o pantofle podczas targu na\nKrecie. Kupiec żydowski nie chc
+ iał się targować.\n• 1904 – w niesłychanie sławnej bitwie pod Cze
+ mulpo Rosjanie z grzeczności\nustępują wody Japończykom i idą na dno.
+ \n• 1939 – Hiszpania zajmuje zbrojnie Baleary. A Generał Franco tak g
+ rzecznie\nprosił\, żeby ściszyć muzykę...\n.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:d8abmijuvlvfeaa2tm7cl0oo20@google.com
+SUMMARY:Dzień Dyplomaty
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220210
+DTSTART;VALUE=DATE:20220210
+DTEND;VALUE=DATE:20220211
+CLASS:PUBLIC
+DESCRIPTION:W Rosji. Najbardziej dyplomatycznym kraju na świecie. Przy ok
+ azji to Europejski\nDzień Numeru Alarmowego 112\, ale kogo to obchodzi.\n
+ * 1355 – starcia ze studentami w Oxfordzie. Już wtedy wiedzieli\, że n
+ ie powinno\nsię obcinać stypendiów socjalnych i wprowadzać płatnych k
+ ierunków.\n* 1638 – Ludwik XIII oddaje Francję pod opiekę Matki Boże
+ j. Dzięki temu Francuzi\nbędą mieć usprawiedliwienie na słabe wartoś
+ ci moralne swojej armii. I ta biel…\n* 1755 – Monteskiusz fenomenalnie
+  kopie w kalendarz.\n* 1904 – początki wojny Rosji z Japonią\, a razem
+  z nią początki końca caratu.\n* 1920 – zaślubiny Polski z Morzem Ba
+ łtyckim. W noc poślubną Haller spił się i\nrazem z podwładnymi śpie
+ wali wulgarne\, żołnierskie piosenki.\n* 1925 – konkordat z Watykanem 
+ został zawiązany\, ale bez preparatu na czarne\npijawki.\n* 1982 – Jur
+ ku... Kto odpowiada za to jak wygląda ten pomnik Feliksa\nDzierżyńskieg
+ o? Nie wkurwiaj mnie\, dobrze? A jak bym na niego nasrał\, to też tak\nz
+ ostawisz? Upierdolony farbą\, czy nie wiem czym...\n* 1985 – Polacy wys
+ yłają swoje lotnictwo na pomoc Etiopii. Przypadkowo\nzestrzelono szesna
+ ście niemieckich samolotów z pomocą humanitarną.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:kteibqfggjqquro05fcuqrudcc@google.com
+SUMMARY:Ogólnopolski Dzień Dokarmiania Zwierzyny Leśnej
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220211
+DTSTART;VALUE=DATE:20220211
+DTEND;VALUE=DATE:20220212
+CLASS:PUBLIC
+DESCRIPTION:A także Światowy Dzień Chorego\n• 1929 – powstaje Watyk
+ an. Sto lat!\n• 1973 – wobec powyższego dla równowagi narodził się
+  Varg Vikernes. Jemu też\nżyczymy stu lat (za podpalenia).\n• 2006 –
+  wystawiono pomnik niezgodzie polskiej kinematografii. Na cokole w\nToruni
+ u stanęli zgodnie Kargul i Pawlak.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:et5e5h4oqc6f31dfi95lfpv4p8@google.com
+SUMMARY:Dzień Dzieci\, Które Zastępują Żołnierzy
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220212
+DTSTART;VALUE=DATE:20220212
+DTEND;VALUE=DATE:20220213
+CLASS:PUBLIC
+DESCRIPTION:Dzień Karola D.\n• 1\,5 mld lat temu – jakaś bakteria ew
+ oluuje! Ma układ wydalniczy! Albo nie\newoluuje\, zostaje przyniesiona z 
+ kosmosu. Albo coś. Chyba.\n• 1831 – na złość Darwinowi\, Ekwador a
+ nektuje jego raj.\n• 1909 – powstaje u Amerykanów Krajowe Stowarzysze
+ nie Postępu Ludzi Kolorowych.\nCóż\, udało się wiele osiągnąć\, al
+ e nadal się obrażają\, jak się teraz nazwie\nktóregoś kolorowym.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:eljhgi4s16b6phim4uv6aqhq04@google.com
+SUMMARY:Urodziny Dziadka Mroza
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220213
+DTSTART;VALUE=DATE:20220213
+DTEND;VALUE=DATE:20220214
+CLASS:PUBLIC
+DESCRIPTION:Zasyp Niemcy jeśli możesz. Poza tym Światowy Dzień Radia\,
+  Dzień Carlosa Santany\,\nMiędzynarodowy Dzień Zimowej Jazdy Rowerem do
+  Pracy.\n• 1542 – Henrykowi VIII podpadła jego piąta żona i dlatego
+  postanowił ściąć jej łeb.\n• 1895 – bracia Lumière opatentowali
+  kinematograf. Tak na wszelki wypadek\, żeby\njakiś Szwab im tego nie po
+ dwędził.\n• 1943 – został utworzony Polski Zespół Myśliwski. Nib
+ y nic dziwnego\, ale miało
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:1p135gjv8fh217n0kn5tnvvg44@google.com
+SUMMARY:Dzień Chorych na Padaczkę
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220214
+DTSTART;VALUE=DATE:20220214
+DTEND;VALUE=DATE:20220215
+CLASS:PUBLIC
+DESCRIPTION:Znienawidzony przez niepogodzonych z rzeczywistością gównia
+ rzy.\n• 1349 – dokonano (kolejnej) masakry Żydów. Publiczność zacz
+ ęła narzekać na nudę.\n• 1779 – James Cook przegiął pałkę i do
+ sięgnął go gniew tamtejszych.\n• 1992 – Lech „Awiator” Kaczyńs
+ ki został prezesem NIK-u.\n• 2005 – pewien koleś wrzucił do neta sw
+ ój filmik z kotem i nieumyślnie założył\nserwis YouTube.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:6atv4hf972i25krvojsmeeba38@google.com
+SUMMARY:Międzynarodowy Dzień Walki z Rakiem Dzieciństwa
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220215
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220216
+CLASS:PUBLIC
+DESCRIPTION:Widły w dłoń i do ataku! Dzień Singla i Światowy Dzień M
+ łodzieży Prawosławnej.\n• 399 p.n.e. – Sokrates dostał bilet w jed
+ ną stronę do Hadesu.\n• 1113 – potwierdzono regułę zakonu joannit
+ ów. Już wtedy był popularny pogląd\,\nże reguły i zasady są po to 
+ żeby je łamać.\n• 2009 – 124\,36% głosujących w demokratycznym re
+ ferendum w Wenezueli\nopowiedziało się za zniesieniem limitu dwóch kade
+ ncji dla prezydenta.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:rird9181i4g4sgln6f2hkfikrk@google.com
+SUMMARY:Urodziny Kim Dzong Ila
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220216
+DTSTART;VALUE=DATE:20220216
+DTEND;VALUE=DATE:20220217
+CLASS:PUBLIC
+DESCRIPTION:Wieczna chwała wielkiemu wodzowi! Z tych nieważnych: Między
+ narodowy Dzień\nListonoszy i Doręczycieli Przesyłek\, Dzień Poczty Pol
+ skiej.\n• 1586 – Bóg Miłosierny™ uznał przez władze Kościoła\,
+  że Holendrzy to heretycy i\ntrzeba ich wyrżnąć w pień.\n• 1941 –
+  urodził się Kim Dzong Il – najwspanialszy wódz świata\, przywódca\
+ nnajwspanialszego państwa świata.\n• 1959 – Fidel Castro dorwał si
+ ę do władzy. Nieświadomi niczego Kubańczycy
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:7k15dmld96hlpir62vosvcqbbc@google.com
+SUMMARY:Wszechgalaktyczny Dzień Kota
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220217
+DTSTART;VALUE=DATE:20220217
+DTEND;VALUE=DATE:20220218
+CLASS:PUBLIC
+DESCRIPTION:Dla tych co kotów nie trawią – Kwirynalia!\n• 1164 – w
+  powodzi na wybrzeżach Holandii i niemieckich państewek ginie ok. 20\nty
+ s. osób. Trzeba było się ubezpieczyć!\n• 1912 – urodziła się And
+ re Norton – pisarka fantasy\, której literacką płodność\nmożna tyl
+ ko przyrównać do tempa rozrodu muzułmanów we Francji.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:j2vgr4102n7homktnv5jtn6vpk@google.com
+SUMMARY:Imieniny Haralampiusza
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220218
+DTSTART;VALUE=DATE:20220218
+DTEND;VALUE=DATE:20220219
+CLASS:PUBLIC
+DESCRIPTION:A także nie mniej ważne Święto Niepodległości Gabonu.\n
+ • 1374 – urodziła się Jadźka\, król Polski.\n• 1386 – Jadźka 
+ hajtnęła się z Władziem.\n• 1930 – odkryto Plutona\, wówczas plan
+ etę.\n
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:j5okmd879gumuf8koi4riemdhs@google.com
+SUMMARY:Święto Zieloniutkiej Flagi Turkmeńskiej
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220219
+DTSTART;VALUE=DATE:20220219
+DTEND;VALUE=DATE:20220220
+CLASS:PUBLIC
+DESCRIPTION:Święto Demokracji (taaa...) w Nepalu\n• 44 mln lat temu 
+ – Jakiś nieduży meteor uderzył w Marsa. Nikogo to nie obeszło.\n• 
+ 1473 – Urodził się Mikołaj Kopernik\, który zatrzymał słońce czy 
+ jakoś tak...\n• 1594 – Zygmunt III Waza lansi się poprzez dwie koron
+ y – Polski i Szwecji.\nUrządził się\, skubany.\n• 2008 – Fidel Ca
+ stro rezygnuje z funkcji. Kto by się spodziewał...
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:5t7mpbkvbeb5b4rbk4bm6jqohc@google.com
+SUMMARY:Międzynarodowy Dzień Palących Fajkę
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220220
+DTSTART;VALUE=DATE:20220220
+DTEND;VALUE=DATE:20220221
+CLASS:PUBLIC
+DESCRIPTION:Wszystkim fajczarzom – miłego pykania! A również Światow
+ y Dzień Sprawiedliwości\nSpołecznej.\n• 1909 – łoja\, manifest fut
+ urystów! Świat już nigdy nie będzie taki jak przedtem!\n• 1942 – j
+ apońska inwazja na Timor. Sprej na komary pilnie potrzebny.\n• 1980 –
+  Artur Boruc spluwa na murawę oddziału porodowego.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:4b6b8dg7v8dperumlvmg5pa554@google.com
+SUMMARY:Międzynarodowy Dzień Języka Ojczystego
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220221
+DTSTART;VALUE=DATE:20220221
+DTEND;VALUE=DATE:20220222
+CLASS:PUBLIC
+DESCRIPTION:Wnioskuj\, Nonsa rymuje po polsku!\nA także Dzień Walki z Re
+ żimem Kolonialnym i dzień Rihanny\, lol.\n• 1848 – Karol Marks i Fry
+ deryk Engels zaczęli manifestować. Wszyscy wiedzą jak\nto się skończy
+ ło.\n• 1878 – wynaleziono książkę telefoniczną. Niektórzy zaczę
+ li uczyć się jej na\npamięć.\n• 1916 – Żabojady wraz z Szkopami p
+ ostanowili się spotkać pod Verdun.\n• 2005 – komuś najwidoczniej ni
+ e spodobała się abstrakcja i zamordował Zdzisława\nBeksińskiego\, mal
+ arza.\n
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:8q59a1sovggqkvlt23ls8vsteg@google.com
+SUMMARY:Dzień Myśli Braterskiej
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220222
+DTSTART;VALUE=DATE:20220222
+DTEND;VALUE=DATE:20220223
+CLASS:PUBLIC
+DESCRIPTION:a także Europejski Dzień Ofiar Przestępstw\n• 1897 – Ka
+ rol Świerczewski\, radziecki polski generał zaczyna karierę od\nzagłus
+ zającego wroga ryku.\n• 1966 – Jacek Kurski\, polski polityk zaczyna 
+ walkę z PO. Od noworodka.\n• 2009 – „Slumdog. Milioner z ulicy” z
+ biera oskary.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:0ecgbmrubfk0ghqekdfe67tkno@google.com
+SUMMARY:Dzień bez łapówki
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220223
+DTSTART;VALUE=DATE:20220223
+DTEND;VALUE=DATE:20220224
+CLASS:PUBLIC
+DESCRIPTION:Co tym samym sugeruje przyzwolenie dla łapówek w pozostałe 
+ dni. Nic dodać\, nic\nująć. A także Międzynarodowy Dzień Pomocy Potr
+ zebującym\, Ogólnopolski Dzień\nWalki z Depresją\, Dzień Armii Czerwo
+ nej\, Dzień Mężczyzn\, Dzień Obrońcy Ojczyzny\nw Rosji. Dużo tego\, 
+ prawda?\n• 1903 – Kuba i USA zawarły układ dotyczący obszaru Guant
+ ánamo. Guantánamera…\n• 1999 – Rodzina zastępcza zaczęła umila
+ ć czas polskim rodzinom.\n• 2001 – ustanowiono Ogólnopolski Dzień W
+ alki z Depresją. Holendrzy uznali to za\natak osobisty.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:0cc69fs75fdt36u56t3vlcd6mc@google.com
+SUMMARY:Święto Niepodległości Estonii
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220224
+DTSTART;VALUE=DATE:20220224
+DTEND;VALUE=DATE:20220225
+CLASS:PUBLIC
+DESCRIPTION:Oraz Dzień Niespodziewanego Całusa. Katolicy wspominają św
+ iętego Marka\nMarconiego. Tak\, tego twórcę radia.\n• 1397 – zało
+ żono Związek Jaszczurczy. Od tego momentu Krzyżacy będą walczyć z\ng
+ alaktycznymi Jaszczurami – Reptilianami.\n• 1885 – na świat wydano 
+ Witkacego. Produkcja narkotyków wzrosła ponad\nczterokrotnie.\n• 1920 
+ – Adolf\, podrzędny dyktatorzyna przedstawił swój program polityczny.
+ \nDwadzieścia punktów o niczym i pięć o czymś\, za co pójdzie siedzi
+ eć.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:rrk6inakvhkk302sa5bvm4djd8@google.com
+SUMMARY:Rocznica zdobycia Gruzji przez Armię Czerwoną
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220225
+DTSTART;VALUE=DATE:20220225
+DTEND;VALUE=DATE:20220226
+CLASS:PUBLIC
+DESCRIPTION:A także\, co nie mniej ważne\, Ogólnopolski Dzień Masturba
+ cji!\n• 3589 p.n.e. – biblijny Onan siedział sobie spokojnie w domu\,
+  grając w\nchińczyka i wbrew powszechnej opinii nie wymyślił masturbac
+ ji.\n• 1919 – Śląsk Cieszyński trochę się spolszczył\, ale nie n
+ a długo.\n• 1956 – Chruszczow oświadczył\, że Stalin to w sumie fa
+ jny koleś był\, ale nie aż\ntak bardzo jak byśmy wszyscy chcieli.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:p8i9v5kec3h35s0pdmj7vurd8o@google.com
+SUMMARY:Święto Wyzwolenia Kuwejtu
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220226
+DTSTART;VALUE=DATE:20220226
+DTEND;VALUE=DATE:20220227
+CLASS:PUBLIC
+DESCRIPTION:Do tego Dzień Spania w Miejscach Publicznych\, Dzień Dinozau
+ ra oraz imieniny\nPorfirego i innych Porfiriuszy. Serdecznie pozdrawiamy a
+ ktywne wampiry!\n• 1927 – Mazurek Dąbrowskiego zyskał prawo do bycia
+  odtwarzanym podczas\nuroczystości sportowych.\n• 1935 – utworzono Lu
+ ftwaffe. Stary\, masz nalot na ścianie...
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:8vh583dkh6fc9s4mrb0d9tl59o@google.com
+SUMMARY:Dzień Niedźwiedzia Polarnego
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220227
+DTSTART;VALUE=DATE:20220227
+DTEND;VALUE=DATE:20220228
+CLASS:PUBLIC
+DESCRIPTION:Dominikana odzyskuje niepodległość\, radujmy się\, ludzie!
+ \n• 1945 – narodziny Kmicica. No jak to\, żył w czasach Potopu? O Ol
+ brychskim mówię!\n• 1976 – Sahara Zachodnia ogłosiła niepodległo
+ ść\, i to pomimo że nikt tam nie\nmieszka.\n• 1999 – Olusẹgun Ọ
+ basanjọ wygrał wybory prezydenckie w Nigerii\, co ma\nfundamentalnie zn
+ aczenie na arenie międzynarodowej.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220220T150245Z
+LAST-MODIFIED:20220220T150235Z
+DTSTAMP:20220220T150235Z
+UID:ps5aro0g6145eea457fmb57l24@google.com
+SUMMARY:Dzień Kibica Cracovii
+STATUS:CONFIRMED
+RECURRENCE-ID;VALUE=DATE:20220228
+DTSTART;VALUE=DATE:20220228
+DTEND;VALUE=DATE:20220301
+CLASS:PUBLIC
+DESCRIPTION:Radzimy wszystkim kibicom Wisły Kraków pozostać dziś w dom
+ ach\n• 2009 – został wyemitowany ostatni odcinek Hugo. Gęstość w k
+ ościołach spadła o 15%.\n• 2012 – papież Benedykt XVI abdykował\,
+  aby się wyróżnić spośród innych.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
+

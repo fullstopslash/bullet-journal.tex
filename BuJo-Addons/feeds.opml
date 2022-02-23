@@ -1,0 +1,10 @@
+<opml version="1.0" xmlns:fz="urn:forumzilla:">
+  <head>
+    <title>Thunderbird OPML Export - Blogs &amp; News Feeds</title>
+    <dateCreated>Wed, 23 Feb 2022 07:50:50 GMT</dateCreated>
+  </head>
+  <body>
+    <outline title="news - Current News">
+      <outline type="rss" title="/news/ - Current News" text="/news/ - Current News" version="RSS" fz:quickMode="false" fz:options="{&quot;version&quot;:2,&quot;updates&quot;:{&quot;enabled&quot;:true,&quot;updateMinutes&quot;:100,&quot;updateUnits&quot;:&quot;min&quot;,&quot;lastUpdateTime&quot;:1645602624030,&quot;lastDownloadTime&quot;:null,&quot;updatePeriod&quot;:&quot;&quot;,&quot;updateFrequency&quot;:&quot;&quot;,&quot;updateBase&quot;:&quot;&quot;},&quot;category&quot;:{&quot;enabled&quot;:false,&quot;prefixEnabled&quot;:false,&quot;prefix&quot;:&quot;&quot;}}" xmlUrl="http://boards.4chan.org/news/index.rss" htmlUrl="http://boards.4chan.org/news/./"/></outline>
+  </body>
+</opml>

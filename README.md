@@ -12,7 +12,6 @@
 		* [X] TV show tracker
 		* [ ] Goal tracker
 	* Lists
-		* [X] Birthday list
 		* [X] Quotes
 		* [ ] Wish board
 		* [ ] Things to buy
@@ -36,13 +35,17 @@ Same for BuJo-Addons-Legacy
 
 ## BuJo-Addons
 
-LateX packages used (based on debian packages):
-* texlive-pictures
-	* csvsimple - Finance
-* texlive-latex-extra
-	* tikz - dot grid bullet journal background
-
-In debian: apt install texlive-latex-extra texlive-pictures
+* LateX packages used (based on debian packages):
+	* texlive-pictures
+		* csvsimple - Finance
+	* texlive-latex-extra
+		* tikz - dot grid bullet journal background
+* Other
+	* .ics - iCalendar format for... calendar view ;)
+	* .csv - For tracking
+	* .opml - For subscriptions
+	* .vcf - For contacts
+	* .html - For website bookmarks 
 
 # PDF
 latexmk -pdf -f -g -bibtex -deps -synctex=1 -interaction=nonstopmode -output-directory=BuJo.pdf 'BuJo.tex'

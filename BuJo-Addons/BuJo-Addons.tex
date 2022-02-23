@@ -5,25 +5,21 @@
 %---
 \usepackage{csvsimple} %tables
 \usepackage{tikz} % dot grid
+\usepackage{hyperref} % clickable links
 %---
 \title{Bullet Journal - Addons}
 \begin{document}
 \maketitle
 \tableofcontents
 \newpage
-\section{Daily view}
-18.02.2022
-\begin{itemize}
-	\item \textbf{What you have learned?}
-    \begin{itemize}
-        \item Install plugins to LaTeX
-    \end{itemize}
-\end{itemize}
+	\section{Calendar view}
+	\input{basic.ics}
+	%birthday list, holidays, meetings etc.
 \newpage
 \section{Task lists}
 Legend:
 \begin{itemize}
-	 [+] Prompt \hrefs{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{source}
+	 [+] \href{https://bulletjournal.com/blogs/bulletjournalist/long-form-journaling}{Prompt}
 \end{itemize}
 Other:
 \begin{itemize}
@@ -37,15 +33,33 @@ Other:
     \begin{itemize}
         \item Nothing
     \end{itemize}
-\end{itemize}
-\begin{itemize}
-	\item TODO:
-    \begin{itemize}
-		 		\item statistics for trackers - Python pandas. CSV supported
-		 		\item Reminders
-    \end{itemize}
-     \end{itemize}
+	\end{itemize}
+	\begin{itemize}
+		\item \textbf{Things to buy}
+			\begin{itemize}
+				\item Nothing
+			\end{itemize}
+	\begin{itemize}
+		\item \href{https://github.com/todotxt/todo.txt}{TODO.TXT}
+	\end{itemize}
 \newpage
+	\section{Collection}
+	\begin{itemize}
+		\item	Brain dump 
+		\item \textbf{Quotes} - The main thing that I learned about conspiracy theory is that conspiracy theorists actually believe in a conspiracy because that is more comforting. The truth of the world is that it is chaotic. The truth is, that it is not the Jewish banking conspiracy or the grey aliens or the 12 foot reptiloids from another dimension that are in control. The truth is more frightening, nobody is in control. The world is rudderless - Alan moore
+		\item \textbf{Wish board}
+			\begin{itemize}
+				\item Nothing
+			\end{itemize}
+	\end{itemize}
+\subsection{Bookmarks}
+\begin{itemize}
+	\item Favorite songs - \href{BuJo-Addons/rainwave_all_mp3.m3u}{.m3u} 
+	\item Favorite websites - \href{BuJo-Addons/hotlist.html}{.html}
+	\item Contacts - \href{BuJo-Addons/john-doe.vcf}{.vcf}
+	\item Subscriptions - \href{BuJo-Addons/feeds.opml}{.opml}
+    \end{itemize}
+	\newpage
 List emotions:
 	 Abhiman
 	 Acedia
@@ -197,22 +211,23 @@ List emotions:
 	 Worry
 	 Żal
 \newpage
-\section{Mood tracker}
-\csvautotabular{mood-habit.csv}
+\section{Trackers}
+\subsection{Mood tracker}
+\csvautotabular{monthly-tracker.csv}
 \newpage
-\section{Habit tracker}
-\csvautotabular{mood-habit.csv}
+\subsection{Habit tracker}
+\csvautotabular{monthly-tracker.csv}
 \newpage
-\section{Financial tracker}
-\subsection{Subscriptions}
+\subsection{Financial tracker}
+\subsubsection{Subscriptions}
 \csvautotabular{financial.csv}
-\subsection{Income}
+\subsubsection{Income}
 \csvautotabular{financial.csv}
-\subsection{expenses}
+\subsubsection{expenses}
 \csvautotabular{financial.csv}
 \newpage
-\section{Meal tracker}
-\subsection{Meals}
+\subsection{Meal tracker}
+\subsubsection{Meals}
 \begin{itemize}
   \item Monday
 		\begin{itemize}
@@ -265,7 +280,13 @@ List emotions:
      \end{itemize}
 \end{itemize}
 \newpage
-\subsection{Shopping list}
+\subsubsection{Shopping list}
+		\begin{itemize}
+     \item Milk
+     \item Oat
+     \item Honey
+     \end{itemize}
+\subsubsection{Shit tier food}
 		\begin{itemize}
      \item Milk
      \item Oat
@@ -290,12 +311,4 @@ List emotions:
         \item second item on the list
     \end{itemize}
 \end{itemize}
-\section{birthday list}
-\begin{itemize}
-	\item Person 1 - 17.02.2022 
-\end{itemize}
-\section{Quotes}
-		\begin{itemize}
-     \item The main thing that I learned about conspiracy theory is that conspiracy theorists actually believe in a conspiracy because that is more comforting. The truth of the world is that it is chaotic. The truth is, that it is not the Jewish banking conspiracy or the grey aliens or the 12 foot reptiloids from another dimension that are in control. The truth is more frightening, nobody is in control. The world is rudderless - Alan moore
-\newpage
 \end{document}

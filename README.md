@@ -1,3 +1,5 @@
+THIS REPO IS ARCHIVED. If you really want move your analog buJo to digital, use emacs org mode.
+
 # Bullet journal
 * [BuJo](BuJo.tex) - original [Bullet Journal](https://www.youtube.com/watch?v=fm15cmYU0IM)
 * [Bujo-Addons](Bujo-Addons.tex) - User Created Plugins
